@@ -1,6 +1,6 @@
 FROM       node:alpine 
 
-MAINTAINER https://github.com/anders94/blockchain-demo
+MAINTAINER https://github.com/RafikHamza/Blockchain-Demo
 
 EXPOSE     3000
 
